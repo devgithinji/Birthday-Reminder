@@ -1,3 +1,7 @@
-## Idea
+## Birthday List 
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+Birthday list app built in react js.
+
+click [here](https://birthday-reminder-ke.netlify.app) to view site
+
+Dennis Githinji 👍
